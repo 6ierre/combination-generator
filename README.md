@@ -8,11 +8,11 @@ To install the project, simply clone the code.
 ### Usage
 To generate combinations, call the **`generate_combinations()`** function. The **`numbers`** parameter should contain the numbers you want to combine, and the **`length`** parameter should contain a number specifying the number of elements in each combination.
 
-Example:
+**Example:**
 
-Input: **`generate_combinations([1, 2, 3, 4, 5], 2)`**
+*Input:* **`generate_combinations([1, 2, 3, 4, 5], 2)`**
 
-Output: **`[[1, 2], [1, 3], [1, 4], [1, 5], [2, 3], [2, 4], [2, 5], [3, 4], [3, 5], [4, 5]]`**
+*Output:* **`[[1, 2], [1, 3], [1, 4], [1, 5], [2, 3], [2, 4], [2, 5], [3, 4], [3, 5], [4, 5]]`**
 
 The code has been tested with Python 3.11.1, but it should work with earlier versions as well, as it does not use any libraries.
 
