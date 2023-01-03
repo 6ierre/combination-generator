@@ -18,10 +18,6 @@ To generate combinations, call the **`generate_combinations()`** function. The *
 
 *2.) Output:* **`[[2, 2, 2], [2, 2, 3], [2, 2, 4], [2, 2, 3], [2, 2, 4], [2, 3, 4], [2, 2, 3], [2, 2, 4], [2, 3, 4], [2, 3, 4]]`**
 
-*3.) Input:* **`generate_combinations(['a', 'b', 'c', 'd'], 2)`**
-
-*3.) Output:* **`[['a', 'b'], ['a', 'c'], ['a', 'd'], ['b', 'c'], ['b', 'd'], ['c', 'd']]`**
-
 The code has been tested with Python 3.11.1, but it should work with earlier versions as well, as it does not use any libraries.
 
 ### Errors
